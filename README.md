@@ -1,4 +1,6 @@
-*🇬🇧  This repository is currently in Russian. An English version will be published separately.*
+🇬🇧  This repository is currently in Russian.  
+English version: [Go to English repository](https://github.com/almaskabyken/DataScience_YandexPracticum_EN)
+
 
 # Data Science проекты — Yandex Practicum
 В этом репозитории собрана часть моих проектов по Data Science, выполненных в рамках программы **Специалист по Data Science от Yandex Practicum**.  
